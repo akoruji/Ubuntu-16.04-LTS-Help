@@ -10,4 +10,8 @@ sudo apt-get install openjdk-8-jdk
 //How to uninstall openjdk-8-jdk
 sudo apt-get purge --auto-remove openjdk-8-jdk
 
+//Installing wine
+sudo apt-get install wine
+
+
 
