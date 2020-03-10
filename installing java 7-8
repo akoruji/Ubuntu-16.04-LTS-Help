@@ -4,7 +4,10 @@ sudo add-apt-repository ppa:openjdk-r/ppa
 sudo apt-get update   
 sudo apt-get install openjdk-7-jdk
 
-How to unistall openjdk-8-jdk
+//How to install openjdk-8-jdk
+sudo apt-get install openjdk-8-jdk
+
+//How to uninstall openjdk-8-jdk
 sudo apt-get purge --auto-remove openjdk-8-jdk
 
 
