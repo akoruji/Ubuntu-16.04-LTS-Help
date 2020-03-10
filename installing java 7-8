@@ -13,5 +13,10 @@ sudo apt-get purge --auto-remove openjdk-8-jdk
 //Installing wine
 sudo apt-get install wine
 
+//To check wine version
+wine --version
+
+//To Check JDK version
+java -version
 
 
